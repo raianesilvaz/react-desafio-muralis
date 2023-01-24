@@ -1,0 +1,36 @@
+.button1 {
+    align-items: center;
+    justify-content: center;
+    width: 85px;
+    height: 35px;
+    background-color: rgba(223, 226, 12, 0.815);
+    border: 1px solid yellow;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    color: whitesmoke;
+    position: relative;
+    right: 65px;
+    top: -20px;   
+}
+
+.button2{
+    align-items: center;
+    justify-content: center;
+    width: 85px;
+    height: 35px;
+    background-color: rgb(52, 196, 52);
+    border: 1px solid rgb(34, 167, 34);
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    color: whitesmoke;
+    position: relative;
+    right: -65px;
+    top: -20px;
+}
+
+.divbotao{
+    display: flex ;
+    margin-bottom: 5px;
+}

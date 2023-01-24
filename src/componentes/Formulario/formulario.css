@@ -1,0 +1,48 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+  
+label {
+    display: flex;
+    flex-direction: column;
+}
+  
+input{
+    border-radius: 5px;
+    border: 1px solid rgba(20, 68, 133, 1);
+    height: 25px;
+    width: 300px;   
+}
+
+h1{
+    position: relative;
+    border: 1px solid rgb(27, 68, 124);
+    border-radius: 8px;
+    height: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    background-color: rgb(63, 105, 165);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+}
+
+select{
+    border-radius: 5px;
+    border: 1px solid rgba(20, 68, 133, 1);
+    height: 25px;
+    width: 320px;
+}
+
+.formulario{
+    border: 2px solid rgb(25, 69, 136);
+    border-radius: 10px;
+    height: 470px; 
+
+}
